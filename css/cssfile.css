@@ -31,10 +31,28 @@ img {
 }
 
 .three{
-  background-color: gray;
+  /*background-color: gray;*/
   border: 1px solid gray;
 
   /*height: 100px;*/
+
+}
+
+.instagram-container{
+  text-align: center;
+  font-weight: bold;
+  color: gray;
+}
+
+#login-with-facebook{
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+
+#facebook-logo{
+  height: 50px;
+  width: 50px;
 
 }
 
